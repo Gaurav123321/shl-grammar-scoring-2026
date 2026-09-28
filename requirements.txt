@@ -1,0 +1,8 @@
+faster-whisper
+librosa
+soundfile
+scikit-learn
+pandas
+seaborn
+scipy
+tqdm

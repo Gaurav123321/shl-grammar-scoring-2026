@@ -1,0 +1,14 @@
+# Generated notebook and Python files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large/generated local artifacts
+cache/
+submission.csv
+*.wav
+
+# Local environment files
+.env
+.venv/
+venv/
