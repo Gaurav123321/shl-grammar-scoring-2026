@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+.DS_Store
 
 # Large/generated local artifacts
 cache/
